@@ -36,13 +36,23 @@ input: 3 3 5 6, which corresponds to (3,3) -> (5,6).
 For the input 1 2 3 5 which corresponds to (1,2) -> (3,5) the output should be:
 
 Number of paths: 10
+
 NNNEE
+
 NNENE
+
 NNEEN
+
 NENNE
+
 NENEN
+
 NEENN
+
 ENNNE
+
 ENNEN
+
 ENENN
+
 EENNN
