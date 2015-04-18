@@ -37,13 +37,13 @@ For the input 1 2 3 5 which corresponds to (1,2) -> (3,5) the output should be:
 
 Number of paths: 10
 
-NNNEE
-NNENE
-NNEEN
-NENNE
-NENEN
-NEENN
-ENNNE
-ENNEN
-ENENN
-EENNN
+NNNEE <br>
+NNENE <br>
+NNEEN <br>
+NENNE <br>
+NENEN <br>
+NEENN <br>
+ENNNE <br>
+ENNEN <br>
+ENENN <br>
+EENNN <br>
