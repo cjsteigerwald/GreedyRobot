@@ -1,15 +1,15 @@
 # GreedyRobot
 UW CSS 342 Programming Project
 
-The Greedy Robot or Lost in the Supermarket
+<p><strong><b>The Greedy Robot or Lost in the Supermarket</p></strong></b>
 
-Purpose
+<b>Purpose</b>
 
 The programming assignment will provide an exercise in using recursion to solve a path-finding
 problem in two dimensional space. The assignment will require the usage of recurrence as well
 as good class design. There is also minimal usage of the “new” keyword and pointers.
 
-Problem: “The Greedy Robot” or “Lost in the Supermarket”
+<b>Problem: “The Greedy Robot” or “Lost in the Supermarket”</b>
 
 A robot is positioned on an integral point in a two-dimensional coordinate grid (x1,y1). There is
 a treasure that has been placed at a point in the same grid at (x2, y2). x1, x2, y1, and y2 are all
